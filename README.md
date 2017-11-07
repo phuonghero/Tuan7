@@ -1,6 +1,6 @@
  # HotelManager
 ## Use case
-![bai1 5 1](https://user-images.githubusercontent.com/20503202/32431511-5faa3ea0-c306-11e7-897c-33b396a8337e.jpg)
+![bai1 5 1](https://github.com/LightKnight3r/Tuan7/commit/ed37acf846d1e953857ca8ac1b62168a6943c3f8#diff-66d1b538d4a0033988fc8849a7f2b1ea)
 
 ## goals và business objectives
-![goalsandobjectives](https://user-images.githubusercontent.com/20503202/32431405-f4ab873a-c305-11e7-94c5-1fa8f0d2dfea.jpg)
+![goalsandobjectives](https://github.com/LightKnight3r/Tuan7/commit/ed37acf846d1e953857ca8ac1b62168a6943c3f8#diff-66d1b538d4a0033988fc8849a7f2b1ea)
